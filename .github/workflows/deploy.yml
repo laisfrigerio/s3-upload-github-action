@@ -21,4 +21,4 @@ jobs:
           aws-region: us-east-2 # Substitua pela região do seu bucket, se diferente
 
       - name: Sync S3 bucket
-        run: aws s3 sync . s3://${{env.PROD_BUCKET_NAME}} --delete
+        run: aws s3 sync . s3://${{vars.PROD_BUCKET_NAME}} --delete
