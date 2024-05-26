@@ -7,7 +7,7 @@ Deploying a static website to AWS S3 bucket
 
 ## 📝 Tutorial link
 
-Contact me on my instagram account [@laisfrigerio](https://github.com/laisfrigerio) to get the Tutorial link ;)
+Contact me on my instagram account [@laisfrigerio](https://www.instagram.com/laisfrigerio/) to get the Tutorial link ;)
 
 </p>
 
